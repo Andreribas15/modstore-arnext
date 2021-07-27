@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Mods
-permalink: /blog
+permalink: /mods
 section: blog
 intro_paragraph: >
   This is the Blog index page, listing each post with an automatically generated
