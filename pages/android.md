@@ -1,7 +1,7 @@
 ---
 layout: contact
-title: Contact
-permalink: /contact
+title: Android
+permalink: /android
 section: contact
 intro_paragraph: |-
 
