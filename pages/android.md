@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: page
 title: Android
 permalink: /android
 section: about
