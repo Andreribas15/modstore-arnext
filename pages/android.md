@@ -2,6 +2,6 @@
 layout: contact
 title: Android
 permalink: /android
-section: contact
+section: about
 intro_paragraph: ⚠️ Página em desenvolvimento ⚠️
 ---
