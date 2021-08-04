@@ -1,0 +1,10 @@
+# specify main menu items here
+
+- text: Home
+  url: /
+- text: IOS
+  url: /ios
+- text: Android
+  url: /android
+- text: Mods
+  url: /mods
