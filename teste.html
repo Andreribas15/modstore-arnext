@@ -1,0 +1,323 @@
+
+<!DOCTYPE html>
+
+<!--
+	MassiveBox's Homepage
+	Copyright (C) 2021 MassiveBox
+
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <https://www.gnu.org/licenses/>.
+-->
+
+<html lang="en">
+	<head>		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Home - MassiveBox</title>
+		<link rel="stylesheet" href="deps/bulma.min.css">
+		<script src="deps/jquery.min.js"></script>
+		<script src="deps/fontawesome.min.js"></script>
+		
+		<meta charset="UTF-8" />
+		<meta name="author" content="MassiveBox" />
+		<meta name="description" content="MassiveBox is a free time developer and FOSS enthusiast. This is his website." />
+		<meta name="keywords" content="developer, web, backend, telegram, session, massive, box, massivebox" />
+		
+		<script>
+			$(document).ready(function() {
+
+			  // Check for click events on the navbar burger icon
+			  $(".navbar-burger").click(function() {
+
+				  // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+				  $(".navbar-burger").toggleClass("is-active");
+				  $(".navbar-menu").toggleClass("is-active");
+
+			  });
+			});
+		</script>
+		
+		<!-- Matomo -->
+		<script type="text/javascript">
+		  var _paq = window._paq = window._paq || [];
+		  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		  _paq.push(['trackPageView']);
+		  _paq.push(['enableLinkTracking']);
+		  (function() {
+			var u="//matomo.massivebox.eu.org/";
+			_paq.push(['setTrackerUrl', u+'matomo.php']);
+			_paq.push(['setSiteId', '1']);
+			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+			g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+		  })();
+		</script>
+		<!-- End Matomo Code -->
+
+	</head>
+	
+	<body>
+		
+		
+		<section class="hero is-primary is-fullheight" style="padding: 2vw 7vw 2vw 7vw; background: #04032d !important">
+			
+			<nav class="navbar" role="navigation" aria-label="main navigation">
+				<div class="navbar-brand">
+					<a class="navbar-item" href="./">
+						<img src="assets/navlogo.png" alt="Navigation bar logo">
+						<div style="width: 15px"></div>
+						<p class="is-size-4"><b><i>MassiveBox</i></b></p>
+					</a>
+					<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+						<span aria-hidden="true"></span>
+						<span aria-hidden="true"></span>
+						<span aria-hidden="true"></span>
+					</a>
+				</div>
+
+				<div id="navbarBasicExample" class="navbar-menu">
+					<div class="navbar-end">
+						<a class="navbar-item" href="./"><span class="icon-text"><span class="icon"><i class="fas fa-home"></i></span><span>Home</span></span></a>
+						<a class="navbar-item" href="projects.html"><span class="icon-text"><span class="icon"><i class="fas fa-swatchbook"></i></span><span>Projects</span></span></a>
+						<a class="navbar-item" href="contact.html"><span class="icon-text"><span class="icon"><i class="fas fa-envelope"></i></span><span>Contact</span></span></a>
+					</div>
+				</div>
+			</nav>
+		
+		
+		
+			<div class="hero-body">
+				<table style="width: 100%">
+					<tr>
+						<td style=""><p align="center"><img src="assets/spinning.gif" alt="spinning box" class="is-hidden-touch" style="width: 257px"></p></td><!-- Desktop -->
+						<td>
+							<div>
+								<p align="center"><img src="assets/spinning.gif" alt="spinning box" class="is-hidden-desktop" style="width: 257px"></p><!-- Mobile -->
+								
+								<p class="title" align="center" style="font-size: 9vw;"><b><i>MassiveBox</i></b></h1><!-- Desktop -->
+								
+								<p class="is-size-5" align="center">Yup. That's me.</p>
+							</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</section>
+		
+		<section class="section">
+			<p class="title">Who am I</p>
+			<p class="subtitle">
+				I'm Matteo, a 16 years old guy from Brescia, Italy.<br>
+				In my free time I like fiddling around with code, and sometimes I come up with something decent that I publish to the world.<br>
+				I like cats, Linux, Free and Open Source Software, and privacy.
+			</p>
+			<a href="https://codeberg.org/massivebox"><button class="button is-link">Codeberg</button></a>
+			<a href="https://c.im/@massivebox"><button class="button is-link">Mastodon</button></a>
+			<a href="https://github.com/massivebox"><button class="button is-link">GitHub</button></a>
+		</section>
+		
+		<section class="hero is-medium is-link">
+			<div class="hero-body">
+				<p class="title">Stuff I know (kind of)</p>
+				<div class="subtitle columns">
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/go.png" alt="go's logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Go</b></p>
+								<p>Backend work, Telegram bots, API endpoints</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/front.png" alt="html, javascript, css"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>HTML, CSS, JavaScript/JQuery</b></p>
+								<p>Frontend work</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/linux.png" alt="linux tux"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Linux</b></p>
+								<p>Runs on all my PCs and my server</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/c.png" alt="c logo"></img></figure>
+							</div>
+							<div class="card-content">
+								<p><b>C</b></p>
+								<p>Stuff with SDL1 and SDL2, mostly 2D games</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/py.png" alt="python logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Python</b></p>
+								<p>Simple scripts for myself, internal stuff</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/sql.png" alt="mysql logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>SQL</b></p>
+								<p>Database engine of most of my projects</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="subtitle columns">
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/docker.png" alt="docker logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Docker</b></p>
+								<p>All my projects run on Docker</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/compose.png" alt="compose logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Docker Compose</b></p>
+								<p>Making Docker easy.</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/redis.png" alt="redis logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Redis</b></p>
+								<p>Database engine for my simplest projects</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/mongo.png" alt="mongodb logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>MongoDB</b></p>
+								<p>Database engine of some of my projects</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/php.png" alt="php logo"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>PHP</b></p>
+								<p>It was a long time ago I swear</p>
+							</div>
+						</div>
+					</div>
+					<div class="column is-2">
+						<div class="card" style="height: 100%">
+							<div class="card-image">
+								<figure class="image is-1by1"><img src="assets/homeicons/jamstack.png" alt="jamstack image"></figure>
+							</div>
+							<div class="card-content">
+								<p><b>Jamstack</b></p>
+								<p>It's my way of life.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section class="section">
+			<p class="title">What's happening</p>
+			<p>Feed from my <a href="https://c.im/@massivebox">Mastodon profile</a></p>
+			<div id="mastodonfeed" style="overflow-x: hidden; overflow-y: auto; height: 50vh">
+			
+			</div>
+		</section>
+		
+		<script src="deps/rss-parser.min.js"></script>
+		<script>
+
+		let parser = new RSSParser();
+		parser.parseURL('https://c.im/@massivebox.rss', function(err, feed) {
+			if (err) throw err;
+			console.log(feed.title);
+			feed.items.forEach(function(entry) {
+				date = new Date(Date.parse(entry.isoDate));
+				html = `
+					<div class="card mb-3">
+						<article class="media" style="padding: 10px">
+						  <figure class="media-left">
+							<p class="image is-64x64">
+							  <a href="`+entry.link+`"><img src="assets/navlogo.png" alt="My profile picture"></a>
+							</p>
+						  </figure>
+						  <div class="media-content">
+							<div class="content">
+							  <p>
+								<strong>MassiveBox</strong>  <small><a href="https://c.im/@massivebox">massivebox@c.im</a></small>  <small>`+date.getDate()+"/"+(date.getMonth()+1)+"/"+date.getFullYear()+`</small>
+								<br>
+								`+entry.contentSnippet+`
+							  </p>
+							</div>
+						  </div>
+						</article>
+					</div>`;
+				$("#mastodonfeed").html($("#mastodonfeed").html()+html);
+			})
+		})
+
+		</script>
+		
+		<footer class="footer">
+			<div class="content has-text-centered">
+				<p>
+					Website by MassiveBox, handcrafted in Italy with <span class="icon has-text-danger"><i class="fas fa-heart"></i></span>.<br>
+					Released under GPL3. <a href="https://codeberg.org/massivebox/website" target="_blank" rel="noopener noreferrer">Source code</a><br>
+					Icons by <a href="https://fontawesome.com" target="_blank" rel="noopener noreferrer">FontAwesome</a> (CC BY 4.0) - All logos in this page are copyright of their owner - <a href="/pages/privacy.html" target="_blank" rel="noopener noreferrer">Privacy</a>
+				</p>
+			</div>
+		</footer>
+
+	</body>
+</html>
