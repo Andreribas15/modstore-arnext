@@ -9,6 +9,8 @@ categories: Android, Câmera
 ---
 <a href="https://seulink.net/TimestampCameraProModStore"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Download</button></a> 
 
+<audio autoplay="autoplay" loop="loop" src="1468285242-481817.mp3" preload="auto"></audio>
+
 <!-- Google Tag Manager (noscript) -->
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTN2MF8"
