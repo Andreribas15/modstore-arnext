@@ -17,7 +17,7 @@ intro_paragraph: >-
   O aplicativo disponibiliza uma enorme variedade de filmes e séries dublados e legendados, com uma qualidade de som e imagem impecáveis. 
 
 
-  **MOD:**
+  **<p/>MOD:<p/>**
 
 
   * **\- Anúncios removidos/desabilitados;**
