@@ -35,3 +35,5 @@ intro_paragraph: >-
   * Arquivos desnecessários removidos.
 ---
 <a href="https://encurta.eu/MEDIAFLIX_Plus_v577"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Download</button></a>
+
+Verified by [VirusTotal](https://virustotal.com/gui/file/3b957ed205e9135c12c58f87e55eeaf387aeac455233c9c33eecd14667a69417)
