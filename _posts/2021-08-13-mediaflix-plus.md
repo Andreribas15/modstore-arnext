@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MEDIAFLIX Plus v5.7.7
+title: MEDIAFLIX Plus
 meta_description: "MEDIAFLIX Plus é o aplicativo ideal para quem está procurando
   o melhor do entretenimento.  O aplicativo disponibiliza uma enorme variedade
   de filmes e séries dublados e legendados, com uma qualidade de som e imagem
