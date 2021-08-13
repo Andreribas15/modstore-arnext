@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Time Stamp Camera Pro
-meta_description: A câmera de carimbo de data / hora pode adicionar marca d'água
+meta_description: A câmera de carimbo de data/hora pode adicionar marca d'água
   de carimbo de data/hora na câmera em tempo real. Fácil de tirar fotos e
   vídeos.
 author: andre_ribas
 date: 2021-08-03 14:12:57
 intro_paragraph: >-
   <p>A câmera de carimbo de data/hora pode adicionar marca d'água de carimbo de
-  data/hora na câmera em tempo real. Fácil de tirar fotos e vídeos.<p/>\
+  data/hora na câmera em tempo real. Fácil de tirar fotos e vídeos.<p/>
 
-  \
+
 
   <p>Adicione a hora e o local atuais ao gravar vídeos ou tirar fotos, você pode alterar o formato do tempo ou selecionar o local facilmente. A Timestamp Camera é o único aplicativo que pode gravar vídeo com a marca d'água do tempo com precisão de milissegundos (0,001 segundo).<p/>
 
