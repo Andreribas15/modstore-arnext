@@ -20,19 +20,29 @@ intro_paragraph: >-
   <p><b>MOD:</b><p/>
 
 
-  * **\- Anúncios removidos/desabilitados;**
+  <p><b>- Anúncios removidos/desabilitados;</b><p/>
 
-  * **\- Banners de anúncios desabilitados;**
 
-  * **\- Bloqueio de VPN removido;**
+  <p><b>- Banners de anúncios desabilitados;</b><p/>
 
-  * **\- Verificação de assinatura/instalação desabilitada;**
 
-  * **\- Alerta/aviso de atualização desabilitad**o;
+  <p><b>- Bloqueio de VPN removido;</b><p/>
 
-  * \- **Permissões desnecessárias removidas;
-    Login desabilitado (necessário somente para favoritos e comentários);**
-  * **\- Arquivos desnecessários removidos.**
+
+  <p><b>- Verificação de assinatura/instalação desabilitada;</b><p/>
+
+
+  <p><b>- Alerta/aviso de atualização desabilitado;</b><p/>
+
+
+  <p><b>- Permissões desnecessárias removidas;</b><p/>
+
+
+
+  </b><p/>- Login desabilitado (necessário somente para favoritos e comentários);</b><p/>
+
+
+  <p><b>- Arquivos desnecessários removidos.</b><p/>
 ---
 <a href="https://encurta.eu/MEDIAFLIX_Plus_v577"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Download</button></a>
 
