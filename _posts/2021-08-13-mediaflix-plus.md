@@ -14,7 +14,7 @@ intro_paragraph: >-
   *MEDIAFLIX Plus* é o aplicativo ideal para quem está procurando o melhor do entretenimento.
 
 
-  O aplicativo disponibiliza uma enorme variedade de filmes e séries dublados e legendados, com uma qualidade de som e imagem impecáveis.<p><b>MOD:<b/><p/><p><b>- Anúncios removidos/desabilitados;</b><p/><p><b>- Banners de anúncios desabilitados;</b><p/><p><b>- Bloqueio de VPN removido;</b><p/><p><b>- Verificação de assinatura/instalação desabilitada;</b><p/><p><b>- Alerta/aviso de atualização desabilitado;</b><p/><p><b>- Permissões desnecessárias removidas;</b><p/></b><p/>- Login desabilitado (necessário somente para favoritos e comentários);</b><p/><p><b>- Arquivos desnecessários removidos.</b><p/>
+  O aplicativo disponibiliza uma enorme variedade de filmes e séries dublados e legendados, com uma qualidade de som e imagem impecáveis.<p>MOD:<p/><p>- Anúncios removidos/desabilitados;<p/><p>- Banners de anúncios desabilitados;<p/><p>- Bloqueio de VPN removido;<p/><p>- Verificação de assinatura/instalação desabilitada;<p/><p>- Alerta/aviso de atualização desabilitado;<p/><p>- Permissões desnecessárias removidas;<p/><p/>- Login desabilitado (necessário somente para favoritos e comentários);<p/><p>- Arquivos desnecessários removidos.<p/>
 ---
 <a href="https://encurta.eu/MEDIAFLIX_Plus_v577"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Download</button></a>
 
